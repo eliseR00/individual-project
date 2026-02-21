@@ -18,3 +18,14 @@ If you are developing a production application, we recommend using TypeScript wi
 
 https://www.behindthename.com/random/ 
 npm install, npm run dev 
+
+## Submition 2
+What interactive feature(s) you implemented
+The form to select country and gender
+The button to generate
+
+Why you chose this interaction
+This is the basic function of my website, once i get the basics down, i can add more sections and create a better format/style
+
+What is still in progress or planned next
+I cant for the life of me figure out how to get it to read/access the file with the list of names, their country, and gender. 
