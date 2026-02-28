@@ -18,3 +18,16 @@ If you are developing a production application, we recommend using TypeScript wi
 
 https://www.behindthename.com/random/ 
 npm install, npm run dev 
+
+Scope of Recreation:
+I chose to recreate the name generator, including the gender selection and nation selection options
+
+Features Implemented: 
+There is a select gender card, a select nation card, and a card for how many names to generate. The site remembers what your selections were when you go back
+Once you go to the generated page, you can go back using a navigation button
+
+Technical Implementation
+The site utilizes pages and navigation using routes. The hooks used are useState and useEffect
+
+Future Improvements:
+I would like to change the layout to be more modern, I based my design off of what the existing site looks like. I would also add more countries and change it so that my array is a csv that gets called, rather than loading it all in the form page. 
