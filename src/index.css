@@ -1,0 +1,16 @@
+body{
+    background-color: #f0eff0;
+    margin:0;
+    padding:0;
+}
+.banner{
+    background-color: #7878ac;
+    color: #fefdff;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.banner a{
+    color: #fefdff;
+    padding-bottom: 15px;
+}
