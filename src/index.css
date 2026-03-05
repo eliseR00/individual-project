@@ -1,16 +1,21 @@
-body{
-    background-color: #f0eff0;
-    margin:0;
-    padding:0;
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    align-items: center;
 }
-.banner{
+
+.banner {
     background-color: #7878ac;
     color: #fefdff;
     text-align: center;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.banner a{
+.banner a {
     color: #fefdff;
     padding-bottom: 15px;
 }

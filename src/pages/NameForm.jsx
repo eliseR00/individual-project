@@ -134,7 +134,7 @@ const [count, setCount] = useState(() => {
         }
     }, []);
 
-    //save selections to loval storage
+    //save selections to local storage
     useEffect(() => {
         localStorage.setItem(
             "nameForm",
